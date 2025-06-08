@@ -158,7 +158,7 @@ void addJalan(Graph &g, int u, int v, const string& namaJalan) {
 int main() {
     initwindow(1300, 650, "Peta Lamongan");
 
-    setbkcolor(LIGHTGRAY);
+    setbkcolor(WHITE);
     cleardevice();
 
     Graph g;
